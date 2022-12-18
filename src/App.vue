@@ -99,7 +99,7 @@ function finishProgress() {
 .btn {
   position: fixed;
   top: 50%;
-  left: 35%;
+  left: 50%;
   padding: 10px 50px;
   font-size: 24px;
   color: white;
